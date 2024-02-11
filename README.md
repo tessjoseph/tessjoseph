@@ -2,8 +2,6 @@
 
 I'm a student at Northeastern University majoring in Data Science and Health Science.
 
-<!--
-
 - 🌱 I’m currently learning: Algorithms and Data, Large-scale Information Storage and Retrieval
 - 📫 How to reach me: Linkedin: link 
 - 😄 Pronouns: she/her
