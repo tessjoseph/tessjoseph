@@ -1,6 +1,6 @@
 ### Hey, I'm Tessa 👋
 
-I'm a student at Northeastern University majoring in Data Science and Health Science.
+I'm a junior at Northeastern University majoring in Data Science and Health Science.
 
 😄 Pronouns: she/her
 
